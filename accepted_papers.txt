@@ -1,0 +1,80 @@
+List of accepted papers for RTCSA 2014
+7	Junhua Zhao, Hejun Wu and Weiwei Liu. CCM: Low Cost Dynamic data Exchange to Emulate RAM on NAND Flash
+19	Tayfun Gezgin, Ingo Stierand, Achim Rettberg and Stefan Henkler. Impact Analysis for Timing Requirements on Real-Time Systems
+22	Chen-Wei Huang, Timon Kelter, Bjoern Boenninghoff, Jan Kleinsorge, Michael Engel, Peter Marwedel and Shiao-Li Tsao. Static WCET Analysis of the H.264/AVC Decoder Exploiting Coding Information
+27	Gangyong Jia, Liang Shi, Xi Li, Jian Wan and Dong Dai. PUMA: Pseudo Unified Memory Architecture on Single-ISA Heterogeneous Multi-core Systems
+33	Martin Boehnert and Christoph Scholl. A Dynamic Virtual Memory Management under Real-Time Constraints
+38	Xiaoting Li, Olivier Cros and Laurent George. The trajectory approach for AFDX FIFO networks revisited and corrected
+49	Zhiyong Zhang, Zhiping Jia, Lei Ju and Peng Liu. Energy Efficient Real-Time Task Scheduling for Embedded Systems with Hybrid Main Memory
+52	Gang Chen, Kai Huang and Alois Knoll. Adaptive Dynamic Power Management for Hard Real-time Pipelined Multiprocessor Systems
+53	Pei-Shu Huang, Quan-Chung Chen, Chen-Wei Huang and Shiao-Li Tsao. An Efficient Thermal Estimation Scheme for Microprocessors
+60	Glenn A. Elliott, Namhoon Kim, Jeremy P. Erickson, Cong Liu and James H. Anderson. Minimizing Response Times of Automotive Dataflows on Multicore
+61	Jianqing Xiao, Pengwei Lv, Mian Lou, Xunying Zhang and Xubang Shen. A Task-Level Superscalar Microarchitecture for Large Scale Chip Multiprocessors
+67	Kai Li, Xin Wang and Jianhua Shen. Design and Implementation of A Multi-Node WIFI Heart Rate Variability Analysis System
+68	Unmesh D. Bordoloi, Amir Aminifar, Petru Eles and Zebo Peng. Schedulability Analysis of Ethernet AVB Switches
+71	Kai Liu, Joseph Ng, Victor Lee and Sang Son. Towards Scalable, Fair and Robust Data Dissemination via Cooperative Vehicular Communications
+75	Jim Anderson, Jeremy Erickson, Umamaheswari Devi and Benjamin Casses. Optimal Semi-Partitioned Scheduling in Soft Real-Time Systems
+76	Nien-I Hsu, Tseng-Yi Chen, Yuan-Hao Chang, Hsin-Wen Wei and Wei-Kuan Shih. Dynamic Tail Packing to Optimize Space Utilization of File Systems in Embedded Computing Systems
+77	Tzu-Jung Huang, Chien-Chung Ho, Po-Chun Huang, Yuan-Hao Chang, Che-Wei Chang and Tei-Wei Kuo. Current-Aware Scheduling for Flash Storage Devices
+78	Chiyuan Ma and Xiaoqiang Ni. A Memory Schedule Policy Oriented to Stream Architecture
+80	Tao Qian, Frank Mueller and Yufeng Xin. A Real-Time Distributed Hash Table
+81	Antonio Paolillo, Joël Goossens, Pradeep M. Hettiarachchi and Nathan Fisher. Power Minimization for Parallel Real-Time Systems with Malleable Jobs and Homogeneous Frequencies
+82	Wei-Ning Huang, Sheng-Wei Cheng, Che-Wei Chang, Yu-Chen Wu, Tei-Wei Kuo, Yung-Chin Hsu and Wen-Yih Isaac Tseng. The Acceleration of Pipeline Workloads under the FPGA Area and Bandwidth Constraints
+84	Heejong Park, Avinash Malik and Zoran Salcic. Time square -- marriage of real-time and logical-time in GALS and synchronous languages
+86	Renato Mancuso, Prakalp Srivastava, Deming Chen and Marco Caccamo. A Hardware Architecture to Deploy Complex Multiprocessor Scheduling Algorithms
+87	Jiajin Zhang, Lichang Chang and Liu Di. Development of Gaze Tracking System with iPad
+89	Youcheng Sun, Giuseppe Lipari, Nan Guan and Wang Yi. Improving the Response Time Analysis of Global Fixed-Priority Multiprocessor Scheduling
+90	Hua Nie, Gongbo Li, Xingkui Liu, Xiaojun Yang and Keping Long. A Management Architecture of Cloud Server Systems
+92	Zongwei Zhu, Xi Li, Chao Wang and Xuehai Zhou. Memory Power Optimization on Different Memory Address Mapping Schemas
+93	Ralf Jahr, Mike Gerdes, Theo Ungerer, Haluk Ozaktas, Christine Rochange and Pavel G. Zaykov. Effects of Structured Parallelism by Parallel Design Patterns on Embedded Hard Real-time Systems
+95	Martijn M.H.P. Van Den Heuvel, Moris Behnam, Reinder J. Bril, Johan Lukkien and Thomas Nolte. Optimal and fast composition of resource-sharing components in hierarchical real-time systems
+96	Meng Liu, Moris Behnam, Shinpei Kato and Thomas Nolte. An Adaptive Server-Based Scheduling Framework with Capacity Reclaiming and Borrowing
+97	Jing Li, Kunal Agrawal, Christopher Gill and Chenyang Lu. Federated Scheduling for Stochastic Parallel Real-time Tasks
+98	Leonardo Ecco, Sebastian Tobuschat, Selma Saidi and Rolf Ernst. A Mixed Critical Memory Controller Using Bank Privatization and Fixed Priority Scheduling
+99	Zhao-Rong Lai, Che-Wei Chang, Xue Liu, Tei-Wei Kuo and Pi-Cheng Hsiu. Deadline-Aware Load Balancing for MapReduce
+120	Guangdong Liu, Ying Lu, Shige Wang and Zonghua Gu. Partitioned Multiprocessor Scheduling of Mixed-Criticality Parallel Jobs
+129	Borislav Nikolic, Patrick Meumeu Yomsi and Stefan M. Petters. Worst-Case Communication Delay Analysis for Many-Cores using a Limited Migrative Model
+133	Hang Su, Nan Guan and Dakai Zhu. Service Guarantee Exploration for Mixed-Criticality Systems
+134	Kilian Kempf and Frank Slomka. Direct Handling of Infeasible Paths in the Event Dependency Analysis
+137	Suleyman Savas, Essayas Woldu, Zain Ul-Abdin, Tomas Nordström and Mingkun Yang. An Evaluation of Code Generation of Dataflow Languages on Manycore Architectures
+139	Youcheng Sun, Giuseppe Lipari, Romain Soulat, Laurent Fribourg and Nicolas Markey. Component-Based Analysis of Hierarchical Scheduling using Linear Hybrid Automata
+140	Yannick Allard, Geoffrey Nelissen, Joël Goossens and Dragomir Milojevic. A Context Aware Cache Controller to Bridge the Gap Between Theory and Practice in Real-Time Systems
+144	Mohammad Ashjaei, Moris Behnam, Paulo Pedreiras, Reinder J. Bril, Luis Almeida and Thomas Nolte. Reduced Buffering Solution for Multi-Hop HaRTES Switched Ethernet Networks
+145	Vikram Gupta, Nuno Pereira, Shashank Gaur, Eduardo Tovar and Ragunathan Rajkumar. Network-Harmonized Scheduling for Multi-Application Sensor Networks
+147	Alexei Colin, Arvind Kandhalu and Raj Rajkumar. Energy-Efficient Allocation of Real-Time Applications onto Heterogeneous Processors
+151	Zhi Qi and Wen Wen. An Energy Efficient OpenCL Implementation of a Fingerprint Verification System on Heterogeneous Mobile Device
+154	Mimi Xie, Chen Pan, Jingtong Hu, Chun Jason Xue and Qingfeng Zhuge. Non-volatile Registers Aware Instruction Selection and Register Reallocation for Embedded Systems
+155	Anas Toma, Jian-Jia Chen and Wei Liu. Computation Offloading for Sporadic Real-Time Tasks
+158	Shouzhen Gu, Qingfeng Zhuge, Jingtong Hu, Juan Yi and Edwin H.M. Sha. Minimum-cost Data Allocation with Guaranteed Probability on Multiple Types of Memory
+159	Weiwen Jiang, Qingfeng Zhuge, Juan Yi, Lei Yang and Edwin Sha. On Self-Timed Ring for Consistent Mapping and Maximum Throughput
+160	Xiaomin Wei, Yunwei Dong, Mengmeng Yang, Ning Hu and Hong Ye. Hazard Analysis for AADL Model
+161	Chen Pan, Mimi Xie, Jingtong Hu, Meikang Qiu and Qingfeng Zhuge. Wear-Leveling for PCM Main Memory on Embedded System via Page Management and Process Scheduling
+162	Maikon Bueno, José Holanda, Erinaldo Pereira and Eduardo Marques. Operating System Support to an Online Hardware-Software Co-Design Scheduler for Heterogeneous Multicore Architectures
+163	Renato Mancuso, Roman Dudko and Marco Caccamo. Light-PREM: Automated Software Refactoring for Predictable Execution on COTS Embedded Systems
+164	Chi-Sheng Daniel Shih, Shun-Min Wang and Yu-Hsin Wang. Workload Migration Framework for Streaming Applications on Smartphones
+166	Peng Chen, Chao Wang, Xi Li and Xuehai Zhou. Multi-objective aware design flow for coarse-grained systems on chip
+175	Hongxing Wei and Qiang Mao. A Dynamic Covering Algorithm of Wireless Sensor Network Based on CVT
+
+
+List of accepted papers for IWMSA 2014
+1   Zhenmin Li, Avinash Malik and Zoran Salcic. TACO: A Scalable Framework for Timing Analysis and Code Optimization of Synchronous Programs
+2   Wei Jing, Nan Guan and Wang Yi. Performance Isolation for Real-time Systems with Xen Hypervisor on Multi-cores
+4   Wendi Nie, Yaoxin Duan, Kaijie Wu, Qingfeng Zhuge and Edwin Sha. Energy efficient routing techniques with guaranteed reliability based on multi-level uncertain graph
+5   N. Saranya and R. C. Hansdah. An Implementation of Partitioned Scheduling Scheme for Hard Real-Time Tasks in Multicore Linux with Fair Share for Linux Tasks
+7   Weilun Zhao, Yiyuan Xie, Hongjun Che, Yexiong Huang, Weihua Xu, Xin Li and Jiachao Li. Performance Improvement in Mesh-based Optical Networks-on-Chip
+9   Weihua Xu, Yiyuan Xie, Yantao Wang, Hongjun Che, Weilun Zhao, Yexiong Huang, Xin Li and Jiachao Li. Performance Optimization in Torus-based Optical Networks-on-Chip
+10  Yexiong Huang, Yiyuan Xie, Weilun Zhao, Hongjun Che, Weihua Xu, Xin Li and Jiachao Li. A Plasmonic Refractive Index Sensor Based on A MIM Waveguide with A Side-coupled Nanodisk Resonator
+12  Lei Yang, Weichen Liu, Weiwen Jiang and Edwin Sha. Contention-Aware Task and Communication Co-Scheduling for Network-on-Chip based Multiprocessor System-on-Chip
+14  Xianlu Luo, Duo Liu, Kan Zhong, Dan Zhang, Yi Lin, Jie Dai, Weichen Liu, Enhancing Lifetime of NVM-based Main Memory with Bit Shifting and Flipping
+15  Wei Debao, Deng Libao, Huang Min, Gong Youhua, Qiao Liyan, A Hardware-Software Co-design Experiments Platform for NAND Flash Based on Zynq
+
+List of accepted papers for NVMSA 2014
+1   Wang Kang, Weisheng Zhao, Lun Yang, Jacques-Olivier Klein, Youguang Zhang and Dafiné Ravelosona. One-Step Majority-Logic-Decodable Codes Enbale STT-MRAM for High Speed Working Memories
+2   Chien-Chung Ho, Hui-Wen Chen, Yuan-Hao Chang, Yu-Ming Chang, Po-Chun Huang, Tei-Wei Kuo and David Hung-Chang Du. Energy-Aware Data Placement Strategy for SSD-Assisted Streaming Video Servers
+3   Fei Xia, Dejun Jiang and Jin Xiong. Energy Efficient Page Initialization for Storage Class Memory
+4   Youyou Lu, Jiwu Shu and Peng Zhu. TxCache: Transactional Cache using Byte-addressable Non-Volatile Memories in SSDs
+6   Henry Huang. The Design And Implementation Of Flash Based NVDIMM
+8   Takashi Nakada, Takuya Shigematsu, Toshiya Komoda, Shinobu Miwa, Yohei Sato, Hiroshi Ueki, Masanori Hayashikoshi, Toru Shimizu and Hiroshi Nakamura. Data-aware Power Management for Periodic Real-time Systems with Non-Volatile Memory
+9   Li Bing, Yu Hu and Xiaowei Li. Short-SET: An Energy-Efficient Write Scheme for MLC PCM
+15  Li-Pin Chang, Po-Han Sung and Po-Hong Chen. Fast File Synching for Applications in Flash-Based Android Devices
+16  Jen-Wei Hsieh and Ming-Xian Liu. Configurable Reliability Framework for SSD-RAID
