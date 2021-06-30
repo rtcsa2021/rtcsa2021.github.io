@@ -210,7 +210,7 @@ hr {
 	float: left;
 	width: 610px;
 	padding-right: 30px;
-	background: url(images/img06.jpg) repeat-y right top;
+	/*background: url(images/img06.jpg) repeat-y right top;*/
 }
 
 /** SIDEBAR */
@@ -266,6 +266,7 @@ hr {
 	font-size: 22px;
 	color: #000000;
 }
+
 
 .post .meta {
 	display: block;
