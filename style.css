@@ -213,6 +213,14 @@ hr {
 	/*background: url(images/img06.jpg) repeat-y right top;*/
 }
 
+#content2 {
+	float: left;
+	width: 80%; /* peggy - program content width*/
+	padding-right: 30px;
+	/*background: url(images/img06.jpg) repeat-y right top;*/
+}
+
+
 /** SIDEBAR */
 
 #sidebar {
